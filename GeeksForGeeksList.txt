@@ -1,0 +1,7 @@
+ARRAYS
+Given an array A[] and a number x, check for pair in A[] with sum as x
+Majority Element
+Find the Number Occurring Odd Number of Times
+Largest Sum Contiguous Subarray
+Find the Missing Number
+Search an element in a sorted and pivoted array
