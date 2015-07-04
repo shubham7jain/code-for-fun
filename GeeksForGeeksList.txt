@@ -5,3 +5,6 @@ Find the Number Occurring Odd Number of Times
 Largest Sum Contiguous Subarray
 Find the Missing Number
 Search an element in a sorted and pivoted array
+Merge an array of size n into another array of size m+n
+
+
